@@ -17,6 +17,7 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 
 contract MyToken {
+
     //Public variables here
     string public tokenName = "AMASH";
     string public tokenAbbrevation = "AMH";
