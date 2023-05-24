@@ -1,5 +1,5 @@
 # MyToken
-This solidity program is a amash token code which consists of the basic functions of a token, which are described in the description.
+This solidity program is a amash token code deployed on the ethereum blockchain, which consists of the basic functions of a token, which are described in the description.
 
 # Description
 
@@ -17,7 +17,6 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 
 contract MyToken {
-
     //Public variables here
     string public tokenName = "AMASH";
     string public tokenAbbrevation = "AMH";
